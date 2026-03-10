@@ -17,11 +17,11 @@ body {
 
 h1 {
     color: #0a66c2;
-    text-align: center;
 }
 
 h2 {
     padding-bottom: 5px;
+    border-bottom: 2px solid #0a66c2;
 }
 
 a {
